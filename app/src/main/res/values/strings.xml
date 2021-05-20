@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My TestApp</string>
+    <string name="button_name">Call 911</string>
+</resources>
